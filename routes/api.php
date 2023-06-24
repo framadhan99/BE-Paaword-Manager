@@ -4,5 +4,5 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/post', function () {
-    return dd('Cobaa');
+    return dd('halo');
 });
